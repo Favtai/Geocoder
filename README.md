@@ -22,11 +22,13 @@ A user-friendly web application for geocoding and reverse geocoding using OpenSt
 - The app uses OSM Nominatim, which limits requests to 1 per second. Please be patient with batch operations.
 - Your data is processed locally and not stored.
 
-## Acknowledgements
+## Author
+Made with ❤️ by [Favour Taiwo](https://github.com/favtai)
+
+### Acknowledgements
 - [Streamlit](https://streamlit.io/)
 - [Geopy](https://geopy.readthedocs.io/)
 - [Folium](https://python-visualization.github.io/folium/)
 - [OpenStreetMap Nominatim](https://nominatim.openstreetmap.org/)
 
-## Author
-Made with ❤️ by [Favour Taiwo](https://github.com/favtai)
+

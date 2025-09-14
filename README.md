@@ -1,6 +1,6 @@
 # GEOCODER 📍🗺️
 
-A user-friendly web application for geocoding and reverse geocoding using OpenStreetMap (OSM) Nominatim, built with Streamlit, Geopy, and Folium.
+A free and user-friendly web application for geocoding and reverse geocoding using OpenStreetMap (OSM) Nominatim, built with Streamlit, Geopy, and Folium.
 
 ## Features
 - **Geocode**: Convert addresses to latitude and longitude (single or batch mode)

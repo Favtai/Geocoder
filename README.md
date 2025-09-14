@@ -30,4 +30,3 @@ A user-friendly web application for geocoding and reverse geocoding using OpenSt
 
 ## Author
 Made with ❤️ by [Favour Taiwo](https://github.com/favtai)
-"# Geocoder" 
